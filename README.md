@@ -1,4 +1,4 @@
-<h1>Hello! This is my repository of the series of challenges "Weekly Webdev Challenge"</h1>
+<h1>Hello! This is my repository from the series of challenges "Weekly Webdev Challenge"</h1>
 
 Weekly Webdev Challenge 1 https://przemek-pajka.github.io/weekly-webdev-challenge/1/ <br>
 Weekly Webdev Challenge 2 https://przemek-pajka.github.io/weekly-webdev-challenge/2/ <br>
